@@ -1,7 +1,8 @@
 # Radiomics-Based Classification of PSP Phenotypes via Machine Learning
 
 **University Exam:** Biomedical Signal and Image Processing
-**Type:** Team Work
+
+**Type:** Teamwork
 
 ## Overview
 
